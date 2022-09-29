@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">OnlineFurnitureStore</string>
+
+    <string name="first_slide">Choose Your Product</string>
+    <string name="second_slide">Fast Delivery</string>
+    <string name="third_slide">Good Service</string>
+    <string name="des1">There are many ways to determine the product that best suits the online market at any given time..</string>
+
+    <string name="des2">An express delivery is a very quick dispatch, the action of bringing or carrying something to someone very quickly
+    idiom an order with next day delivery an order which will be brought to you on the day after purchase..</string>
+
+    <string name="des3"> Best Furniture Shop in the india..</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Chauhan Amit Haridwar</string>
+    <string name="nav_header_subtitle">amitharidwarchauhan@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_myprofile">My Profile</string>
+    <string name="menu_myorder">My Order</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_support">Support</string>
+    <string name="menu_about">About</string>
+    <string name="menu_logout">Logout</string>
+</resources>

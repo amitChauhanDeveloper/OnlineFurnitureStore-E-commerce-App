@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864328585014",
+    "project_id": "onlinefurniturestore-c18bc",
+    "storage_bucket": "onlinefurniturestore-c18bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864328585014:android:0c5d338d9e674f2aebad97",
+        "android_client_info": {
+          "package_name": "com.project.amit.onlinefurniturestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864328585014-3f19kv5i9dkjhmvhbob0tabplc7rr6g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiBGEuUeuzhoFFQYDoH4aD_sakPMUmiYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864328585014-3f19kv5i9dkjhmvhbob0tabplc7rr6g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

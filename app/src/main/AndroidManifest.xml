@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.project.amit.onlinefurniturestore">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OnlineFurnitureStore"
+        tools:targetApi="31">
+
+        <activity
+            android:name=".activites.RegistrationActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activites.MainActivity" />
+        <activity android:name=".activites.ShowAllActivity" />
+        <activity android:name=".activites.LoginActivity" />
+        <activity android:name=".activites.DetailedActivity" />
+        <activity android:name=".activites.OnBoardingActivity" />
+        <activity android:name=".activites.GooglePay" />
+        <activity android:name=".activites.VerifyOTP" />
+        <activity android:name=".activites.AddressActivity" />
+        <activity android:name=".activites.AddAddressActivity" />
+        <activity android:name=".activites.PaymentActivity" />
+        <activity android:name=".activites.PlaceOrderActivity"/>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
